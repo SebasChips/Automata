@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\bin\Debug\net6.0\automata_palabras.exe
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\bin\Debug\net6.0\automata_palabras.deps.json
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\bin\Debug\net6.0\automata_palabras.runtimeconfig.json
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\bin\Debug\net6.0\automata_palabras.dll
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\bin\Debug\net6.0\automata_palabras.pdb
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.AssemblyInfo.cs
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.dll
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\refint\automata_palabras.dll
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.pdb
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\automata_palabras.genruntimeconfig.cache
+C:\Users\sebas\source\repos\automata_palabras\automata_palabras\obj\Debug\net6.0\ref\automata_palabras.dll
